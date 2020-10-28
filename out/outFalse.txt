@@ -1,0 +1,12 @@
+### BTrace Log: 28.10.2020, 17:20
+
+count
+duration
+count
+duration
+count
+example.Main#aMethod() = 1
+example.Main#main() = 1
+duration
+example.Main#aMethod() = 0
+example.Main#main() = 1002403569
